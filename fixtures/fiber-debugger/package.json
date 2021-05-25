@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.10.0-alpha.328cb32e"
   },
   "dependencies": {
-    "dagre": "^0.7.4",
+    "dagre": "~0.8.1",
     "pretty-format": "^4.2.1",
     "react-draggable": "^2.2.6",
     "react-motion": "^0.5.0"
