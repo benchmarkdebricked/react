@@ -5,7 +5,7 @@
   "devDependencies": {
     "concurrently": "3.1.0",
     "http-proxy-middleware": "0.17.3",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.10.0-alpha.328cb32e"
   },
   "dependencies": {
     "express": "^4.14.0",
